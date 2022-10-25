@@ -1,0 +1,1 @@
+export const get_static_value= data =>({type:'get_static_value', data})

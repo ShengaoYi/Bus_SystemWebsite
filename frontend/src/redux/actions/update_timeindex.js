@@ -1,0 +1,1 @@
+export const update_timeindex = data =>({type:'update_timeindex', data})
