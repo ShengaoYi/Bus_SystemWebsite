@@ -1,1 +1,0 @@
-export const update_filedata = data =>({type:'update_filedata', data})

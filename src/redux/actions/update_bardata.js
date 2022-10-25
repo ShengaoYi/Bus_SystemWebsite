@@ -1,1 +1,0 @@
-export const update_bardata = data =>({type:'bardata', data})

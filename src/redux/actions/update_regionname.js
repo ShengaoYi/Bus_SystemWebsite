@@ -1,1 +1,0 @@
-export const update_regionname = data =>({type:'update_regionname', data})

@@ -1,1 +1,0 @@
-export const get_algorithms_pic = data =>({type:'get_algorithms_pic', data})

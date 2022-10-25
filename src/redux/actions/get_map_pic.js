@@ -1,1 +1,0 @@
-export const get_map_pic = data =>({type:'get_map_pic', data})

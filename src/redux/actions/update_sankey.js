@@ -1,1 +1,0 @@
-export const update_sankey = data =>({type:'update_sankey', data})
