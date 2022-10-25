@@ -1,0 +1,1 @@
+export const get_map_data = data =>({type:'get_map_data', data})

@@ -1,0 +1,1 @@
+export const update_date = data =>({type:'none', data})
